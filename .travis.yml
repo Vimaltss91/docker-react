@@ -7,3 +7,4 @@ before install:
 
 script:
   - docker run test npm run test -- --coverage
+  
